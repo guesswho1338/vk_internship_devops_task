@@ -24,5 +24,5 @@ CHECK_INTERVAL=5
 RESTART_AFTER_FAILURES=3
 SERVICE_NAME="web-app-monitor"
 
-# максимальный размер лога 100 МБ
+# максимальный размер лога
 MAX_LOG_SIZE=$((100 * 1024 * 1024))
